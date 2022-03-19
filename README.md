@@ -33,17 +33,17 @@ For training deep model and evaluating on the Brats dataset set follow the bello
 
 
 ## Quick Overview
-![Diagram of the proposed method](https://github.com/rezazad68/smunet/images/method.png)
+![Diagram of the proposed method](https://github.com/rezazad68/smunet/blob/main/images/method.png)
 
 ### Perceptual visualization of the proposed style matching modules.
-![Diagram of the proposed method](https://github.com/rezazad68/smunet/images/style_matching.png)
+![Diagram of the proposed method](https://github.com/rezazad68/smunet/blob/main/images/style_modules.png)
 
 
 ## Results
 For evaluating the performance of the proposed method, Two challenging task in medical image segmentaion has been considered. In bellow, results of the proposed approach illustrated.
 </br>
 
-![Results](https://github.com/rezazad68/smunet/images/results.png)
+![Results](https://github.com/rezazad68/smunet/blob/main/images/Results.png)
 
 
 
