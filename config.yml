@@ -7,7 +7,7 @@ number_classes:  4 # Number of classes in the target dataset
 batch_size_tr:   1 # Batch size for train
 batch_size_va:   1 # Batch size for validationn 
 modalities:      ['flair', 't1', 't1ce', 't2']# List of modalities needd to be used for training and evaluating the model  
-path_to_data:    '/home/staff/azad/deeplearning/brats/MICCAI_BraTS_2018_Data_Training/' # path to dataset
+path_to_data:    './dataset_BraTS2018/MICCAI_BraTS_2018_Data_Training/' # path to dataset
 path_to_log:     './results/' # path to save results
 progress_p:      0.1 # value between 0-1 shows the number of time we need to report training progress in each epoch
 validation_p:    0.1 # validation percentage
